@@ -1,11 +1,14 @@
+/* ---HEADER--- */
+
 * {
   margin: 0;
   padding: 0;
 }
 
-img {
+.img-logo {
 	max-width: 100%;
 	height: auto;
+	width: 170px;
 }
 
 .container {
@@ -49,4 +52,17 @@ img {
 	.header .container {
 		justify-content: space-between;
 	}
+}
+
+/* ---FOOTER--- */
+
+.texto-footer {
+	color: #c2b59b;;
+}
+
+footer .container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 }
