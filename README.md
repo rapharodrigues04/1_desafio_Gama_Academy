@@ -53,8 +53,12 @@ __CRITÉRIOS DE AVALIAÇÃO__
 
 * As páginas devem ser responsivas. Vamos testar as páginas nas resoluções desktop (1280px) , tablet (1024px)  e celular (375px) . Todas as medidas são de largura da página.
 
+__O que foi desenvolvido?__
 
-__TECNOLOGIAS UTILIZADAS__ ---
+## Rock'n Roll Barbearia
+Foi desenvolvido uma página para uma determinada barbearia.
+
+A página foi desenvolvida toda em 
   <img align="center" alt="Raphael-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raphael-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+nativos, isso é, sem adicionar nenhum tipo de biblioteca ou framework.
