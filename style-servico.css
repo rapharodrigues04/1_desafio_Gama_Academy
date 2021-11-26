@@ -4,37 +4,44 @@
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.container2 {
-	max-width: 80%;
-	max-width: 100%;
-	padding: 20px 20px;
-	
-}
-
-.img-icon {
-	width: 400px;
-	cursor: pointer;
-}
-
-ul {
+.flex {
+	width: 80%;
+	margin: 0 auto;
 	display: flex;
-  justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	border-top: 100px;
 }
 
-ul li {
-  padding: 0 8px;
-	list-style: none;
-}
-
-ul li h2 {
-	text-align: center;
+.flex img {
+	max-width: 400px;
+	margin: 20px 20px 0 20px;
+	border-radius: 10px;
+	box-shadow: 20px 20px 30px #000000;
 	cursor: pointer;
+	-webkit-filter:grayscale(0%);
 }
 
-ul li p {
+.flex h2 {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.flex .prod-descricao {
 	text-align: center;
 }
 
-li h2:hover {
+.produto_preco {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.flex h2:hover {
 	font-size: 27px;
+}
+
+.flex img:hover {
+	-webkit-filter:grayscale(100%);
+  transition: 0.5s;
 }
