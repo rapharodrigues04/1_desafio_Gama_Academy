@@ -51,4 +51,10 @@ __CRITÉRIOS DE AVALIAÇÃO__
 * Não vamos considerar os textos do site, no entanto o nome dos produtos e categorias/seção/tipo dos itens devem fazer sentido. Isso quer dizer, se vocês escolherem por exemplo um catálogo de cosméticos:  o nome dos cosméticos tem que fazer sentido (batom, xampu, protetor solar) e assim como suas categorias como por exemplo cabelo, rosto, maquiagem, etc.
 
 
-* As páginas devem ser responsivas. Vamos testar as páginas nas resoluções desktop (1280px) , tablet (1024px)  e celular (375px) . Todas as medidas são de largura da página. 
+* As páginas devem ser responsivas. Vamos testar as páginas nas resoluções desktop (1280px) , tablet (1024px)  e celular (375px) . Todas as medidas são de largura da página.
+
+
+__TECNOLOGIAS UTILIZADAS__ ---
+  <img align="center" alt="Raphael-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Raphael-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
